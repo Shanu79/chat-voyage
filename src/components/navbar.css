@@ -1,0 +1,23 @@
+.nav{
+    padding: 1.5rem;
+    display: flex;
+    background-color:rgba(255, 235, 205, 0.5);
+    border-top-right-radius: 1rem;
+    justify-content: space-between;
+}
+.nav .logo{
+    font-size: large;
+}
+.profile{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    padding: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profile span{
+    font-weight: 500;
+}

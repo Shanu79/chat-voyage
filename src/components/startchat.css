@@ -1,0 +1,22 @@
+.startchat{
+    padding: 1.5rem;
+    display: flex;
+    background-color:rgba(255, 235, 205, 0.5);
+    justify-content: space-between;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+.startchat button{
+    background-color: rgb(245, 245, 245);
+    color: rgb(65, 65, 65);
+    border: none;
+    width: 150px;
+    height: 50px;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    font-size: 15px;
+}

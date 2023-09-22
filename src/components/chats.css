@@ -1,0 +1,23 @@
+.chats{
+    padding: 1rem;
+    display: flex;
+    background-color:rgb(255, 249, 241);
+    margin-top: 0.2rem;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.116);
+    display: flex;
+    gap: 1rem;
+}
+.chatlog{
+    display: flex;
+    flex-direction: column;
+}
+.userdp{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(87, 17, 0);
+    border-radius: 50%;
+}
+.chatlog .username{
+    font-weight: 500;
+}

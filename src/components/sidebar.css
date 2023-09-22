@@ -1,0 +1,6 @@
+.sidebar{
+    flex: 1;
+    background-color: rgba(41, 41, 41, 0.178);
+    border-radius: 1rem;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.247);
+}

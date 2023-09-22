@@ -1,0 +1,50 @@
+.input{
+    height: 100px;
+    padding: 10px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.inputbox{
+    display: flex;
+    gap: 0.5rem;
+}
+.inputfield{
+    background-color:beige;
+    width: 90%;
+    border-radius: 50px;
+    display: flex;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.247);
+}
+.inputfield input{
+    background-color:beige;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+}
+.emojibutton{
+    height: 100%;
+    width: 50px;
+    border-radius: 50px;
+    background-color:rgba(221, 221, 210, 0.466);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* .emojibutton span{
+    
+} */
+.send{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color:beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.247);
+}
