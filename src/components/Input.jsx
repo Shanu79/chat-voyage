@@ -7,9 +7,9 @@ const Input = () => {
                 <div className='inputfield'>
                     <input type="text" placeholder='type something...' />
                     <div className='emojibutton'>
-                    <span class="material-symbols-outlined">
-mood
-</span>
+                        <span class="material-symbols-outlined">
+                            mood
+                        </span>
                     </div>
                 </div>
                 <div className='send'><span class="material-symbols-outlined">
