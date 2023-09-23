@@ -8,16 +8,12 @@
 .nav .logo{
     font-size: large;
 }
-.profile{
-    width: 25px;
-    height: 25px;
+.profile img{
+    width: 45px;
+    height: 45px;
     border-radius: 50%;
-    background-color: rgb(255, 255, 255);
-    padding: 7px;
     display: flex;
+    object-fit: cover;
     align-items: center;
     justify-content: center;
-}
-.profile span{
-    font-weight: 500;
 }

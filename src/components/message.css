@@ -1,0 +1,16 @@
+.message{
+    display: flex;
+    gap: 0.5rem;
+    margin: 1rem 3rem;
+}
+.messagecontent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 15px;
+    width: fit-content;
+    max-width: 50%;
+    height: fit-content;
+    border-radius: 50px;
+    background-color: rgb(255, 248, 240);
+}
